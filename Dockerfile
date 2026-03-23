@@ -1,3 +1,4 @@
+# BlueOS Docker Base Image
 # Global build environment variables
 ARG GST_INSTALL_DIR=/artifacts
 ARG GST_VERSION=1.28.1
